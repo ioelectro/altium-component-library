@@ -6,7 +6,7 @@
 - [x]  XC6209
 - [x]  MCP73831
 - [x]  BMA400
-- [x]  ATtiny13
+- [x]  ATtiny13A-SF
 - [x]  PRTR5V0U2X
 - [x]  CH340E
 - [x]  W25Q64FV
