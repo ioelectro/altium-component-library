@@ -13,6 +13,11 @@
 - [x]  STM8S003F3P6
 - [x]  RT6150B-33GQW
 - [x]  W9825G6KH-6
+- [x]  1N5819
+- [x]  LM78L05ACZ
+- [ ]  SMAJ30CA
+- [ ]  MPZ1608S102ATA00
+- [ ]  BC547
 - [ ]  STM32H743IIT6
 
 
