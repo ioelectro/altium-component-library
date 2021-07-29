@@ -16,8 +16,8 @@
 - [x]  1N5819
 - [x]  LM78L05ACZ
 - [ ]  SMAJ30CA
-- [ ]  MPZ1608S102ATA00
-- [ ]  BC547
+- [x]  MPZ1608S102ATA00
+- [x]  BC547B
 - [ ]  STM32H743IIT6
 
 
