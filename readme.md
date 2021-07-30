@@ -17,8 +17,7 @@
 - [x]  LM78L05ACZ
 - [ ]  SMAJ30CA
 - [x]  MPZ1608S102ATA00
-- [x]  BC547B
-- [ ]  STM32H743IIT6
+- [x] BC547B
 
 
 
