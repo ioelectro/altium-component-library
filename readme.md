@@ -15,7 +15,7 @@
 - [x]  W9825G6KH-6
 - [x]  1N5819
 - [x]  LM78L05ACZ
-- [ ]  SMAJ30CA
+- [x]  SMAJ30CA
 - [x]  MPZ1608S102ATA00
 - [x] BC547B
 
