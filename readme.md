@@ -14,11 +14,14 @@
 - [x]  RT6150B-33GQW
 - [x]  W9825G6KH-6
 - [x]  1N5819
-- [x]  LM78L05ACZ
 - [x]  SMAJ30CA
 - [x]  MPZ1608S102ATA00
-- [x] BC547B
-
+- [x]  BC547B
+- [x]  LD1117AS33TR
+- [x]  L79L05ABZ-AP
+- [x]  LM78L05ACZ
+- [x]  SS8550CTA
+- [x]  SS9014CBU  
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
