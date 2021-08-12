@@ -22,6 +22,8 @@
 - [x]  LM78L05ACZ
 - [x]  SS8550CTA
 - [x]  SS9014CBU  
+- [x]  TL084CD
+- [x]  JQC-3f 1C DC5V
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
