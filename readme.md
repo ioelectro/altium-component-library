@@ -29,7 +29,8 @@
 - [x] JQC-3f 1C DC5V
 - [x] MF-SMDF50-2
 - [x] MF-PSMF050X-2
-- [ ] LMC7660
+- [x] TC7660COA
+- [x] EBMS201209A101
 - [ ] MC34063A
 - [ ] TL431
 
