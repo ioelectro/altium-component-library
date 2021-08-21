@@ -27,6 +27,7 @@
 - [x] SS9014CBU  
 - [x] TL084CD
 - [x] JQC-3f 1C DC5V
+- [x] MF-SMDF50-2
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
