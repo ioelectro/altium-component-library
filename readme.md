@@ -28,6 +28,10 @@
 - [x] TL084CD
 - [x] JQC-3f 1C DC5V
 - [x] MF-SMDF50-2
+- [x] MF-PSMF050X-2
+- [ ] LMC7660
+- [ ] MC34063A
+- [ ] TL431
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
