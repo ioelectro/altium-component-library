@@ -32,6 +32,8 @@
 - [x] TC7660COA
 - [x] EBMS201209A101
 - [x] TAJB107K006RNJ
+- [x] LM358N
+- [x] LM358D
 - [ ] MC34063A
 - [ ] TL431
 
