@@ -34,6 +34,7 @@
 - [x] TAJB107K006RNJ
 - [x] LM358N
 - [x] LM358D
+- [x] MFP223P
 - [ ] MC34063A
 - [ ] TL431
 
