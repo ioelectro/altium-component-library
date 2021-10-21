@@ -48,6 +48,7 @@
 - [x] XM7D-0512
 - [x] UJ2-MIBH-G-SMT-TR
 - [x] MPXV7002DP
+- [x] SS34 SM5822 SMA
 - [ ] TL431
 
 
