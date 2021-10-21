@@ -47,6 +47,7 @@
 - [x] ESP8266-12-E
 - [x] XM7D-0512
 - [x] UJ2-MIBH-G-SMT-TR
+- [x] MPXV7002DP
 - [ ] TL431
 
 
