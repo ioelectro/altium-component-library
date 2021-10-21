@@ -45,6 +45,8 @@
 - [x] MC34063ACN
 - [x] SS8050-Y1
 - [x] ESP8266-12-E
+- [x] XM7D-0512
+- [x] UJ2-MIBH-G-SMT-TR
 - [ ] TL431
 
 
