@@ -51,8 +51,11 @@
 - [x] SS34 SM5822 SMA
 - [x] HPC6045NV-220 NR6045-22UH
 - [x] LM2776
+- [x] HEF4051BT
+- [ ] TP223
 - [ ] MSD2938
 - [ ] TL431
+- [ ] BCW66GLT1G
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
