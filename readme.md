@@ -56,6 +56,7 @@
 - [ ] MSD2938
 - [ ] TL431
 - [ ] BCW66GLT1G
+- [ ] TPD4E001
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
