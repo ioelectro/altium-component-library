@@ -54,6 +54,8 @@
 - [x] HEF4051BT
 - [x] SK23D07VG5
 - [x] HI401
+- [x] NDF10N60ZH
+- [x] SN74HC244N
 - [ ] TP223
 - [ ] MSD2938
 - [ ] TL431
