@@ -53,12 +53,14 @@
 - [x] LM2776
 - [x] HEF4051BT
 - [x] SK23D07VG5
+- [x] HI401
 - [ ] TP223
 - [ ] MSD2938
 - [ ] TL431
 - [ ] BCW66GLT1G
 - [ ] TPD4E001
 - [ ] AD5220
+- [ ] SF56
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
