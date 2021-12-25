@@ -61,8 +61,9 @@
 - [ ] TL431
 - [ ] BCW66GLT1G
 - [ ] TPD4E001
-- [ ] AD5220
+- [ ] TDA8568Q
 - [ ] SF56
+- [ ] TDA
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
