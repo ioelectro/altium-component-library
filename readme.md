@@ -56,6 +56,7 @@
 - [x] HI401
 - [x] NDF10N60ZH
 - [x] SN74HC244N
+- [x] L6203
 - [ ] TP223
 - [ ] MSD2938
 - [ ] TL431
@@ -63,7 +64,6 @@
 - [ ] TPD4E001
 - [ ] TDA8568Q
 - [ ] SF56
-- [ ] TDA
 
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
