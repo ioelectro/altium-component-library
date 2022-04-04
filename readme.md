@@ -60,6 +60,8 @@
 - [x] MAX31855KASA+T
 - [x] BT134
 - [x] TDA3629T
+- [x] BC56-12SRWA
+- [x] PC817X1J000F
 - [ ] BT223
 - [ ] MSD2938
 - [ ] TL431
