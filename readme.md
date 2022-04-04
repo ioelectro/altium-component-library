@@ -62,6 +62,8 @@
 - [x] TDA3629T
 - [x] BC56-12SRWA
 - [x] PC817X1J000F
+- [x] BC32725TA
+- [x] BC33740BU
 - [ ] BT223
 - [ ] MSD2938
 - [ ] TL431
