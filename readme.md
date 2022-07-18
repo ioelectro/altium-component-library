@@ -74,6 +74,7 @@
 - [x] 2N3906
 - [x] D-SUB-25Pin
 - [x] PIC12F629T-I/SN
+- [x] KFC-3X6X5-2P-SMD
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
