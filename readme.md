@@ -76,6 +76,7 @@
 - [x] PIC12F629T-I/SN
 - [x] KFC-3X6X5-2P-SMD
 - [x] SCM1242MF
+- [x] SN74ALS1004N
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
