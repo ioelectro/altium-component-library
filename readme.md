@@ -75,6 +75,7 @@
 - [x] D-SUB-25Pin
 - [x] PIC12F629T-I/SN
 - [x] KFC-3X6X5-2P-SMD
+- [x] SCM1242MF
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
