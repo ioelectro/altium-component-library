@@ -99,6 +99,8 @@
 - [ ] MPXHZ6400A
 - [ ] CH455G
 - [ ] TM1638
+- [ ] MPF102 - JFET VHF Amplifier
+
 
 
 
