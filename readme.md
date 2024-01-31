@@ -77,6 +77,7 @@
 - [x] KFC-3X6X5-2P-SMD
 - [x] SCM1242MF
 - [x] SN74ALS1004N
+- [x] RFM95W-868S2
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
@@ -101,6 +102,7 @@
 - [ ] TM1638
 - [ ] MPF102 - JFET VHF Amplifier
 - [ ] FTR-B3GA4.5Z - Fujitsu High Frequency / RF Relays MINI RELAY
+- [ ] PIC16F1825-I/SL
 
 
 
