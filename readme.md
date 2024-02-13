@@ -78,6 +78,7 @@
 - [x] SCM1242MF
 - [x] SN74ALS1004N
 - [x] RFM95W-868S2
+- [x] CC1101 Module
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
