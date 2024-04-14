@@ -80,6 +80,7 @@
 - [x] RFM95W-868S2
 - [x] CC1101 Module
 - [x] PE12864LRF-028
+- [x] LM324N
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
