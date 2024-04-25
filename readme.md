@@ -81,6 +81,7 @@
 - [x] CC1101 Module
 - [x] PE12864LRF-028
 - [x] LM324N
+- [x] R433-SAW
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
