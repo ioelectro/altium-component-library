@@ -83,6 +83,7 @@
 - [x] LM324N
 - [x] R433-SAW
 - [x] FT60F011A-RB
+- [x] FT61F021A-RB
 - [x] CSA1015
 - [x] MMSS8550
 - [ ] PT6961 
