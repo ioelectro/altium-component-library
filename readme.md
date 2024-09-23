@@ -86,6 +86,7 @@
 - [x] FT61F021A-RB
 - [x] CSA1015
 - [x] MMSS8550
+- [x] HCS301-I/SN
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
