@@ -88,6 +88,7 @@
 - [x] MMSS8550
 - [x] HCS301-I/SN
 - [x] STM32F103C8T6
+- [x] PS12864LRF-028-H-Q
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
