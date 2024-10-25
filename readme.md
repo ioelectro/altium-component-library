@@ -89,6 +89,7 @@
 - [x] HCS301-I/SN
 - [x] STM32F103C8T6
 - [x] PS12864LRF-028-H-Q
+- [X] CR1220 SMD HOLDER
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
