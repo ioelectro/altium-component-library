@@ -90,6 +90,7 @@
 - [x] STM32F103C8T6
 - [x] PS12864LRF-028-H-Q
 - [X] CR1220 SMD HOLDER
+- [X] BH-2.54-6GF-K
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
