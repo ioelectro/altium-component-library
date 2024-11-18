@@ -91,6 +91,7 @@
 - [x] PS12864LRF-028-H-Q
 - [X] CR1220 SMD HOLDER
 - [X] BH-2.54-6GF-K
+- [X] LR433T2
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
