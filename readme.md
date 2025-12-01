@@ -89,9 +89,10 @@
 - [x] HCS301-I/SN
 - [x] STM32F103C8T6
 - [x] PS12864LRF-028-H-Q
-- [X] CR1220 SMD HOLDER
-- [X] BH-2.54-6GF-K
-- [X] LR433T2
+- [x] CR1220 SMD HOLDER
+- [x] BH-2.54-6GF-K
+- [x] LR433T2
+- [x] EV1527
 - [ ] PT6961 
 - [ ] LTV-814
 - [ ] BT223
