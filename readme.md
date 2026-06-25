@@ -54,7 +54,7 @@
 - [x] LM2776 `Charge Pump Inverter 200mA`
 - [x] HEF4051BT `8-Ch Mux/Demux`
 - [x] SK23D07VG5 `Slide Switch DP3T 300mA`
-- [x] HI401 `Magnetic Sensor (Hall Effect)` ⚠️ *(توضیح داده‌شده بر اساس اطلاعات موجود)*
+- [x] HI401 `Magnetic Sensor (Hall Effect)`
 - [x] NDF10N60ZH `N-Ch MOSFET 600V 10A`
 - [x] SN74HC244N `Octal Buffer 3-State`
 - [x] L6203 `Full-Bridge Motor Driver 4A`
@@ -91,7 +91,7 @@
 - [x] PS12864LRF-028-H-Q `LCD 128x64`
 - [x] CR1220 SMD HOLDER `Battery Holder SMD`
 - [x] BH-2.54-6GF-K `Pin Header 2.54mm 6-Pin`
-- [x] LR433T2 `SAW Resonator 433.92MHz` ⚠️ *(توضیح داده‌شده بر اساس اطلاعات موجود)*
+- [x] LR433T2 `SAW Resonator 433.92MHz`
 - [x] EV1527 `OTP Encoder IC`
 - [x] MMBT3906LT1G `PNP Transistor -200mA 40V`
 - [ ] PT6961 `LED Driver 77 LEDs max`
