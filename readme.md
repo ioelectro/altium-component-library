@@ -1,129 +1,125 @@
 # IOElectro Altium component library    
 
 **Components List:**
-- [x] MB10F-13
-- [x] TPS2115A
-- [x] XC6209
-- [x] MCP73831
-- [x] BMA400
-- [x] ATMEGA16A-PU
-- [x] ATtiny13A-SF
-- [x] PRTR5V0U2X
-- [x] CH340E
-- [x] CH340G
-- [x] W25Q64FV
-- [x] STM8S003F3P6
-- [x] STM32F030K6T6
-- [x] STM32F030F4P6
-- [x] RT6150B-33GQW
-- [x] W9825G6KH-6
-- [x] 1N5819
-- [x] SMAJ30CA
-- [x] MPZ1608S102ATA00
-- [x] BC547B
-- [x] LD1117AS33TR
-- [x] L79L05ABZ-AP
-- [x] LM78L05ACZ
-- [x] SS8550CTA
-- [x] SS9014CBU  
-- [x] TL084CD
-- [x] JQC-3f 1C DC5V
-- [x] MF-SMDF50-2
-- [x] MF-PSMF050X-2
-- [x] TC7660COA
-- [x] EBMS201209A101
-- [x] TAJB107K006RNJ
-- [x] LM358N
-- [x] LM358D
-- [x] MFP223P
-- [x] 1274571-1
-- [x] GKG30015
-- [x] AL0307-101K-LF
-- [x] EBLS321609-101K
-- [x] EBLS2012-101K
-- [x] 74HC245D
-- [x] DS1013-10R
-- [x] MC34063ACN
-- [x] SS8050-Y1
-- [x] ESP8266-12-E
-- [x] XM7D-0512
-- [x] UJ2-MIBH-G-SMT-TR
-- [x] MPXV7002DP
-- [x] SS34 SM5822 SMA
-- [x] HPC6045NV-220 NR6045-22UH
-- [x] LM2776
-- [x] HEF4051BT
-- [x] SK23D07VG5
-- [x] HI401
-- [x] NDF10N60ZH
-- [x] SN74HC244N
-- [x] L6203
-- [x] MAX31855KASA+T
-- [x] BT134
-- [x] TDA3629T
-- [x] BC56-12SRWA
-- [x] PC817X1J000F
-- [x] BC32725TA
-- [x] BC33740BU
-- [x] 2W10 2W005
-- [x] ADS1232
-- [x] 74HC573 
-- [x] ULN2803ADW
-- [x] TD62783AFG
-- [x] 2N3904
-- [x] 2N3906
-- [x] D-SUB-25Pin
-- [x] PIC12F629T-I/SN
-- [x] KFC-3X6X5-2P-SMD
-- [x] SCM1242MF
-- [x] SN74ALS1004N
-- [x] RFM95W-868S2
-- [x] CC1101 Module
-- [x] PE12864LRF-028
-- [x] LM324N
-- [x] R433-SAW
-- [x] FT60F011A-RB
-- [x] FT61F021A-RB
-- [x] CSA1015
-- [x] MMSS8550
-- [x] HCS301-I/SN
-- [x] STM32F103C8T6
-- [x] PS12864LRF-028-H-Q
-- [x] CR1220 SMD HOLDER
-- [x] BH-2.54-6GF-K
-- [x] LR433T2
-- [x] EV1527
-- [x] MMBT3906LT1G
-- [ ] PT6961 
-- [ ] LTV-814
-- [ ] BT223
-- [ ] MSD2938
-- [ ] TL431
-- [ ] BCW66GLT1G
-- [ ] TPD4E001
-- [ ] TDA8568Q
-- [ ] SF56 
-- [ ] MAX6675K
-- [ ] D15XB60
-- [ ] 10N60
-- [ ] AD8232
-- [ ] TMP117
-- [ ] ICL7107
-- [ ] 74HC595
-- [ ] AD9833 
-- [ ] MCP601
-- [ ] HX711
-- [ ] MPXHZ6400A
-- [ ] CH455G
-- [ ] TM1638
-- [ ] MPF102 - JFET VHF Amplifier
-- [ ] FTR-B3GA4.5Z - Fujitsu High Frequency / RF Relays MINI RELAY
-- [ ] PIC16F1825-I/SL
-
-
-
-
-
+- [x] MB10F-13 `Bridge Rectifier 1A 1000V`
+- [x] TPS2115A `Power MUX 2:1 2A`
+- [x] XC6209 `LDO 150mA`
+- [x] MCP73831 `Li-Ion Charger 500mA`
+- [x] BMA400 `3-Axis Accel 14.5µA`
+- [x] ATMEGA16A-PU `8-bit AVR MCU 16MHz`
+- [x] ATtiny13A-SF `8-bit AVR MCU 20MHz`
+- [x] PRTR5V0U2X `ESD Protection 1pF 8kV`
+- [x] CH340E `USB-UART Converter`
+- [x] CH340G `USB-UART Converter`
+- [x] W25Q64FV `64Mbit SPI Flash 104MHz`
+- [x] STM8S003F3P6 `8-bit MCU 16MHz`
+- [x] STM32F030K6T6 `32-bit ARM MCU 48MHz`
+- [x] STM32F030F4P6 `32-bit ARM MCU 48MHz`
+- [x] RT6150B-33GQW `Buck-Boost Conv 800mA`
+- [x] W9825G6KH-6 `256Mbit SDRAM 166MHz`
+- [x] 1N5819 `Schottky Diode 1A 40V`
+- [x] SMAJ30CA `TVS Diode 400W 30V`
+- [x] MPZ1608S102ATA00 `Ferrite Bead 1kΩ@100MHz`
+- [x] BC547B `NPN Transistor 100mA 45V`
+- [x] LD1117AS33TR `LDO 3.3V 1A`
+- [x] L79L05ABZ-AP `LDO -5V 100mA`
+- [x] LM78L05ACZ `LDO 5V 100mA`
+- [x] SS8550CTA `PNP Transistor -1.5A 25V`
+- [x] SS9014CBU `NPN Transistor 100mA 45V`
+- [x] TL084CD `Quad JFET Op-Amp 3MHz`
+- [x] JQC-3f 1C DC5V `Power Relay 5V 10A`
+- [x] MF-SMDF50-2 `PTC Fuse 550mA 60V`
+- [x] MF-PSMF050X-2 `PTC Fuse 500mA 6V`
+- [x] TC7660COA `Charge Pump Inverter`
+- [x] EBMS201209A101 `Ferrite Bead 100Ω@100MHz`
+- [x] TAJB107K006RNJ `Tantalum Cap 100µF 6.3V`
+- [x] LM358N `Dual Op-Amp 1MHz`
+- [x] LM358D `Dual Op-Amp 1.1MHz`
+- [x] MFP223P `Slide Switch SP3T 200mA`
+- [x] 1274571-1 `Mini BNC Connector 75Ω`
+- [x] GKG30015 `Trimmer Cap 6.5-30pF`
+- [x] AL0307-101K-LF `Inductor 100µH 0.165A`
+- [x] EBLS321609-101K `Inductor 100µH`
+- [x] EBLS2012-101K `Inductor 100µH`
+- [x] 74HC245D `Octal Transceiver 3-State`
+- [x] DS1013-10R `Delay Line 10ns`
+- [x] MC34063ACN `DC-DC Converter 1.5A`
+- [x] SS8050-Y1 `NPN Transistor 1.5A 25V`
+- [x] ESP8266-12-E `Wi-Fi Module`
+- [x] XM7D-0512 `USB Mini-B Connector`
+- [x] UJ2-MIBH-G-SMT-TR `USB Micro-B Receptacle`
+- [x] MPXV7002DP `Pressure Sensor ±2kPa`
+- [x] SS34 SM5822 SMA `Schottky Diode 3A 40V`
+- [x] HPC6045NV-220 NR6045-22UH `Inductor 22µH 1.9A`
+- [x] LM2776 `Charge Pump Inverter 200mA`
+- [x] HEF4051BT `8-Ch Mux/Demux`
+- [x] SK23D07VG5 `Slide Switch DP3T 300mA`
+- [x] HI401 `Magnetic Sensor (Hall Effect)` ⚠️ *(توضیح داده‌شده بر اساس اطلاعات موجود)*
+- [x] NDF10N60ZH `N-Ch MOSFET 600V 10A`
+- [x] SN74HC244N `Octal Buffer 3-State`
+- [x] L6203 `Full-Bridge Motor Driver 4A`
+- [x] MAX31855KASA+T `Thermocouple ADC -200 to +1350°C`
+- [x] BT134 `TRIAC 4A 600V`
+- [x] TDA3629T `Lighting Controller (Automotive)`
+- [x] BC56-12SRWA `3-Digit 7-Segment Display`
+- [x] PC817X1J000F `Optocoupler 5kV`
+- [x] BC32725TA `PNP Transistor -800mA 45V`
+- [x] BC33740BU `NPN Transistor 800mA 45V`
+- [x] 2W10 2W005 `Bridge Rectifier 2A 1000V`
+- [x] ADS1232 `24-bit ADC`
+- [x] 74HC573 `Octal Latch 3-State`
+- [x] ULN2803ADW `Darlington Array 8ch 500mA`
+- [x] TD62783AFG `Darlington Array 8ch 500mA`
+- [x] 2N3904 `NPN Transistor 200mA 40V`
+- [x] 2N3906 `PNP Transistor -200mA 40V`
+- [x] D-SUB-25Pin `DB25 Connector`
+- [x] PIC12F629T-I/SN `8-bit MCU 20MHz`
+- [x] KFC-3X6X5-2P-SMD `Tactile Switch SMD`
+- [x] SCM1242MF `3-Phase Motor Driver 400V`
+- [x] SN74ALS1004N `Hex Inverting Buffer`
+- [x] RFM95W-868S2 `LoRa Module 868MHz`
+- [x] CC1101 Module `Sub-GHz Transceiver`
+- [x] PE12864LRF-028 `LCD 128x64`
+- [x] LM324N `Quad Op-Amp 1MHz`
+- [x] R433-SAW `SAW Resonator 433.92MHz`
+- [x] FT60F011A-RB `8-bit MCU 16MHz`
+- [x] FT61F021A-RB `8-bit MCU with ADC`
+- [x] CSA1015 `PNP Transistor`
+- [x] MMSS8550 `PNP Transistor -1.5A 25V`
+- [x] HCS301-I/SN `KEELOQ Hopping Encoder`
+- [x] STM32F103C8T6 `32-bit ARM MCU 72MHz`
+- [x] PS12864LRF-028-H-Q `LCD 128x64`
+- [x] CR1220 SMD HOLDER `Battery Holder SMD`
+- [x] BH-2.54-6GF-K `Pin Header 2.54mm 6-Pin`
+- [x] LR433T2 `SAW Resonator 433.92MHz` ⚠️ *(توضیح داده‌شده بر اساس اطلاعات موجود)*
+- [x] EV1527 `OTP Encoder IC`
+- [x] MMBT3906LT1G `PNP Transistor -200mA 40V`
+- [ ] PT6961 `LED Driver 77 LEDs max`
+- [ ] LTV-814 `Optocoupler 5kV`
+- [ ] BT223 `TRIAC 1A 600V`
+- [ ] MSD2938 `N-Ch MOSFET`
+- [ ] TL431 `Shunt Regulator Adj. to 36V`
+- [ ] BCW66GLT1G `NPN Transistor 800mA 45V`
+- [ ] TPD4E001 `ESD Protection 4ch 1.5pF`
+- [ ] TDA8568Q `Audio Amplifier 4x25W`
+- [ ] SF56 `Fast Recovery Diode 5A 400V`
+- [ ] MAX6675K `Thermocouple ADC`
+- [ ] D15XB60 `Bridge Rectifier 15A 600V`
+- [ ] 10N60 `N-Ch MOSFET 600V 10A`
+- [ ] AD8232 `ECG Bio-Sensor AFE`
+- [ ] TMP117 `Temp Sensor ±0.1°C`
+- [ ] ICL7107 `3.5 Digit ADC LED Driver`
+- [ ] 74HC595 `Shift Register 8-bit`
+- [ ] AD9833 `DDS Signal Generator`
+- [ ] MCP601 `Op-Amp Rail-to-Rail`
+- [ ] HX711 `24-bit ADC for Load Cells`
+- [ ] MPXHZ6400A `Pressure Sensor 20-400kPa`
+- [ ] CH455G `LED/Key Driver I2C`
+- [ ] TM1638 `LED/Key Driver`
+- [ ] MPF102 `JFET VHF N-Ch`
+- [ ] FTR-B3GA4.5Z `Signal Relay DPDT 2A 4.5V`
+- [ ] PIC16F1825-I/SL `8-bit MCU 32MHz`
+- [ ] IP5303 `Power Bank SOC, 1.2A Chg, 1.0A Dis`
+- [ ] XC6206P332MR `LDO 3.3V 200mA`
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
-
