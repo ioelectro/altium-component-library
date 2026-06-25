@@ -121,5 +121,7 @@
 - [ ] PIC16F1825-I/SL `8-bit MCU 32MHz`
 - [ ] IP5303 `Power Bank SOC, 1.2A Chg, 1.0A Dis`
 - [ ] XC6206P332MR `LDO 3.3V 200mA`
+- [ ] Si5351A-B-GT `I2C Programmable Clock Generator 200MHz 3-Output`
+- [ ] SA612AD `Low-Power VHF Double-Balanced Mixer 500MHz`
 
 [**Download Latest Release**](https://github.com/liyanboy74/altium-component-library/releases/latest/download/IOElectro.IntLib)
